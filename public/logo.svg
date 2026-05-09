@@ -1,0 +1,42 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#020103"/>
+  <circle cx="256" cy="256" r="216" fill="url(#space)" stroke="url(#gold)" stroke-width="12"/>
+  <circle cx="256" cy="256" r="194" fill="none" stroke="#f7c948" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M75 408C56 391 44 364 44 333C44 276 88 230 142 230C196 230 240 276 240 333C240 390 196 436 142 436C119 436 97 426 80 411L42 426L56 386C62 394 68 402 75 408Z" fill="#12002f" stroke="#f7c948" stroke-width="8"/>
+  <circle cx="256" cy="160" r="74" fill="#170044" stroke="url(#gold)" stroke-width="8"/>
+  <path d="M291 95C267 111 252 138 252 168C252 197 267 223 290 239C332 226 362 188 362 143C362 118 353 95 337 77C322 78 306 84 291 95Z" fill="url(#moon)" stroke="#f7c948" stroke-width="4"/>
+  <path d="M184 224L213 205L243 220L213 236L184 224Z" fill="#170044" stroke="#f7c948" stroke-width="6"/>
+  <text x="256" y="301" text-anchor="middle" font-size="90" font-family="Georgia, serif" font-weight="700" fill="url(#gold)" stroke="#7c4a03" stroke-width="1.4">ASTRO</text>
+  <text x="256" y="345" text-anchor="middle" font-size="33" font-family="Georgia, serif" font-weight="700" fill="#ffffff">IN</text>
+  <text x="256" y="418" text-anchor="middle" font-size="82" font-family="Georgia, serif" font-weight="700" fill="#ffffff" stroke="#d8d8d8" stroke-width="0.8">CHAT</text>
+  <text x="256" y="91" text-anchor="middle" font-size="34" fill="#f7d35a">♈</text>
+  <text x="350" y="124" text-anchor="middle" font-size="34" fill="#f7d35a">♍</text>
+  <text x="405" y="211" text-anchor="middle" font-size="34" fill="#f7d35a">♏</text>
+  <text x="383" y="327" text-anchor="middle" font-size="34" fill="#f7d35a">♑</text>
+  <text x="129" y="124" text-anchor="middle" font-size="34" fill="#f7d35a">♉</text>
+  <text x="91" y="211" text-anchor="middle" font-size="34" fill="#f7d35a">♋</text>
+  <text x="123" y="326" text-anchor="middle" font-size="34" fill="#f7d35a">♌</text>
+  <path d="M229 126L237 148L260 156L237 164L229 186L221 164L198 156L221 148L229 126Z" fill="#fff6b8"/>
+  <circle cx="213" cy="178" r="8" fill="url(#gold)"/>
+  <circle cx="244" cy="178" r="8" fill="url(#gold)"/>
+  <circle cx="275" cy="178" r="8" fill="url(#gold)"/>
+  <path d="M256 426L266 452L292 462L266 472L256 498L246 472L220 462L246 452L256 426Z" fill="url(#gold)"/>
+  <defs>
+    <radialGradient id="space" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(249 240) rotate(90) scale(222)">
+      <stop stop-color="#25005f"/>
+      <stop offset="0.55" stop-color="#090019"/>
+      <stop offset="1" stop-color="#030106"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="100" y1="68" x2="402" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff49a"/>
+      <stop offset="0.32" stop-color="#f8b72b"/>
+      <stop offset="0.7" stop-color="#b46a05"/>
+      <stop offset="1" stop-color="#ffe27a"/>
+    </linearGradient>
+    <linearGradient id="moon" x1="252" y1="77" x2="362" y2="239" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff49a"/>
+      <stop offset="0.48" stop-color="#f5b42a"/>
+      <stop offset="1" stop-color="#9d5d06"/>
+    </linearGradient>
+  </defs>
+</svg>
